@@ -105,6 +105,28 @@ for (let i=0 ; i <= 6 ; i++) {
 	});
 }
 
+//Fonctionnalité 7: 
+
+
+//
+//let cards = document.querySelectorAll(".col-md-4")[0]; 
+//console.log(cards)
+//let btnGrey = document.querySelectorAll(".btn-secondary")[0]
+//console.log(btnGrey);
+
+//let order = btnGrey.insertBefore(document.querySelectorAll(".col-md-4")[5], document.querySelectorAll(".col-md-4")[0])
+//	
+//
+//btnGrey.addEventListener("click", order);
+//	
+//
+
+
+	
+	
+
+
+
 
 
 
